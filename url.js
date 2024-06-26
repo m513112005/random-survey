@@ -8,6 +8,7 @@
 
 
 const urls = [
+	'https://hms5232.github.io/random-survey/',
 	'https://docs.google.com/forms/d/e/1FAIpQLSeNcZkmVpIi6BdgPHzaAkTjT3z_xBLHRr-b1wbn_jAvZ4r5lA/viewform?usp=sf_link',
 	'https://docs.google.com/forms/d/e/1FAIpQLSenC0z8GqynunzOFMGjXBtDWZjrS9SZKH_8evhgbN6hB0p0ug/viewform?usp=sf_link'
 ];
